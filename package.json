@@ -1,0 +1,26 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "description": "testing jenskins and nodejs continious integratio\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cn",
+  "main": "bin/www.js",
+  "scripts": {
+    "test": "test/start.hs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houssemFat/ci.git"
+  },
+  "keywords": [
+    "CI",
+    "Jenkins"
+  ],
+  "author": "proxym-it",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houssemFat/ci/issues"
+  },
+  "homepage": "https://github.com/houssemFat/ci#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
