@@ -22,5 +22,8 @@
   "homepage": "https://github.com/houssemFat/ci#readme",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "open": "0.0.5"
   }
 }
